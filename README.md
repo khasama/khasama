@@ -9,10 +9,8 @@
     </a>
 </div>
 <br>
-<div>
-    <a>
+<div align="center">
+    <a href="javascript:void(0)">
         <img src="https://github-profile-trophy.vercel.app/?username=khasama&theme=dracula">
     </a>
 </div>
-
-![trophy](https://github-profile-trophy.vercel.app/?username=khasama&theme=dracula)
