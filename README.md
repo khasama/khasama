@@ -17,6 +17,6 @@
 ## 🏆GitHub Trophies
 <div align="center">
     <a href="javascript:void(0)">
-        <img src="https://github-trophies.vercel.app/?username=khasama&theme=dracula&no-frame=false&no-bg=false&margin-w=10">
+        <img src="https://github-trophies.vercel.app/?username=khasama&theme=dracula&no-frame=false&no-bg=false&margin-w=10&margin-h=10">
     </a>
 </div>
