@@ -1,4 +1,8 @@
-### Hi there 👋
+![Top Langs](https://github-stats.agentbot.xyz/api/top-langs/?username=khasama&theme=dracula&layout=compact)
+
+![Khasama Github Stats](https://github-stats.agentbot.xyz/api?username=khasama&count_private=true&show_icons=true&theme=dracula)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=khasama&theme=dracula)
 
 <!--
 **khasama/khasama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
