@@ -13,8 +13,11 @@
     </a>
 </div>
 <br>
-<div align="center">
+<!-- <div align="center">
     <a href="javascript:void(0)">
         <img src="https://github-profile-trophy.vercel.app/?username=khasama&theme=dracula&margin-w=10">
     </a>
-</div>
+</div> -->
+
+## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=khasama&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
