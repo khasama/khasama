@@ -1,25 +1,10 @@
-<div>
+<div align=center>
   <a href="javascript:void(0)">
     <img align="center" src="https://github-stats.agentbot.xyz/api/top-langs/?username=khasama&theme=dracula&layout=compact">
   </a>
-  <a href="javascript:void(0)">
+  <a href="javascript:void(0)" align=right>
     <img align="center" src="https://github-stats.agentbot.xyz/api?username=khasama&count_private=true&show_icons=true&theme=dracula">
   </a>
 </div>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=khasama&theme=dracula)
-
-<!--
-**khasama/khasama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
