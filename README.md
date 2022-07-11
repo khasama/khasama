@@ -11,6 +11,6 @@
 <br>
 <div align="center">
     <a href="javascript:void(0)">
-        <img src="https://github-profile-trophy.vercel.app/?username=khasama&theme=dracula">
+        <img src="https://github-profile-trophy.vercel.app/?username=khasama&theme=dracula&margin-w=10">
     </a>
 </div>
