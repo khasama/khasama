@@ -1,6 +1,6 @@
 <div align="center">
     <a href="javascript:void(0)">
-        <img align="center" width="3900" src="https://github-stats.agentbot.xyz/api/top-langs/?username=khasama&theme=dracula&layout=compact">
+        <img align="center" width="390" src="https://github-stats.agentbot.xyz/api/top-langs/?username=khasama&theme=dracula&layout=compact">
     </a>
     &nbsp;
     &nbsp;
