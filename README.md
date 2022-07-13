@@ -4,12 +4,12 @@
 ## 📊GitHub Stats :
 <div align="center">
     <a href="javascript:void(0)">
-        <img align="center" width="330" src="https://github-stats.agentbot.xyz/api/top-langs/?username=khasama&theme=dracula&layout=compact">
+        <img align="center" width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khasama&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact&hide=SCSS">
     </a>
     &nbsp;
     &nbsp;
     <a href="javascript:void(0)" align="right">
-        <img align="center" width="400" src="https://github-stats.agentbot.xyz/api?username=khasama&count_private=true&show_icons=true&theme=dracula">
+        <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=khasama&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&show_icons=true">
     </a>
 </div>
 <br>
