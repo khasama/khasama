@@ -9,7 +9,7 @@
     &nbsp;
     &nbsp;
     <a href="javascript:void(0)" align="right">
-        <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=khasama&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&show_icons=true">
+        <img align="center" width="400" src="https://github-readme-stats-beryl.vercel.app/api?username=khasama&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&show_icons=true">
     </a>
 </div>
 <br>
