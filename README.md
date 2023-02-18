@@ -1,4 +1,4 @@
-<div>
+<div align="center">
     <img src="https://typograssy.deno.dev/api?text=kha-sama%20vip%20pro%20no1%20" align="center" />
 </div>
 <br>
