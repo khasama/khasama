@@ -3,7 +3,9 @@
 
 ## 📊GitHub Stats :
 <div align="center">
-    <img src="https://typograssy.deno.dev/api?text=kha-sama%20vip%20pro%20no1%20" align="center" />
+    <div>
+        <img src="https://typograssy.deno.dev/api?text=kha-sama%20vip%20pro%20no1%20" align="center" />
+    </div>
     <br>
     <a href="javascript:void(0)">
         <img align="center" width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khasama&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact&hide=SCSS,CSS,LESS,HTML">
