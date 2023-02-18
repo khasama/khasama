@@ -4,7 +4,7 @@
 ## 📊GitHub Stats :
 <div align="center">
     <a href="javascript:void(0)">
-        <img align="center" width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khasama&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact&hide=SCSS,CSS">
+        <img align="center" width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khasama&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact&hide=SCSS,CSS,LESS,HTML">
     </a>
     &nbsp;
     &nbsp;
