@@ -16,8 +16,9 @@
     <a href="javascript:void(0)" align="right">
         <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=khasama&theme=dracula&include_all_commits=true&show_icons=true">
     </a>
+    <br>
     <a href="javascript:void(0)">
-        <img align="center" width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khasama&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact&hide=SCSS,CSS,LESS,HTML,EJS">
+        <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khasama&theme=dracula&hide_border=true">
     </a>
 </div>
 <br>
